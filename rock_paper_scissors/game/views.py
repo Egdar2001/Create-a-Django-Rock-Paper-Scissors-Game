@@ -1,6 +1,8 @@
 from django.shortcuts import redirect, render
 import random
 
+
+
 # Create your views here.
 
 def index(request):
